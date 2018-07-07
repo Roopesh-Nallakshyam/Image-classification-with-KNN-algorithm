@@ -1,1 +1,2 @@
-I have computed the SIFT features of different types of images and i saved in .csv files
+I have computed the SIFT features of different types of images 
+And saved those features into .csv files as minitest and minitrain sets
